@@ -40,11 +40,3 @@ En el modo normal, se pueden utilizar los siguientes keymaps:
     sl: Mueve el foco a la ventana derecha.
     <C-w><left>: Reduce el ancho de la ventana actual.
     <C-w><right>: Aumenta el ancho de la ventana actual.
-    <C-w><up>: Aumenta la altura de la ventana actual.
-    <C-w><down>: Reduce la altura de la ventana actual.
-
-## Funciones Especiales
-
-    <C-j>: Navega hacia el siguiente error o advertencia en el documento.
-    <leader>r: Reemplaza el código hexadecimal con HSL.
-    <leader>i: Activa/desactiva las sugerencias de contexto LSP.

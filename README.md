@@ -5,4 +5,6 @@ This repository will contains examples and guides to correctly use artificial in
 
 ## Content
 
-🔗 [CHATGPT FUNDAMENTALS 🔗](FUNDAMENTALS_CHATGPT.md)
+> [CHATGPT FUNDAMENTALS ](FUNDAMENTALS_CHATGPT.md)
+
+gb
