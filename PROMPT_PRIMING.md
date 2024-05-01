@@ -8,7 +8,7 @@ Great outputs all come down to the data the model was trained on, its **paramete
 - A specific **task** that you are requesting ChatGPT to complete, aka your desired **output**
 - **Refinement** as need once you receive your first response, aka reiteration until receiving the desired output.
 
-## What is Prompmt Priming? 🧐
+## What is Prompt Priming? 🧐
 
 Prompt engineering is the process of **designing** and **optimizing** prompts used in natural language processing
 (NLP) models, such as ChatGPT, chatbots, or virtual assistants. This involves crafting prompts that are clear,
@@ -205,6 +205,7 @@ are **[constraints]**.
 
 • You are an **expert marketer**. Create **5 emails ending with a call to action**. The goal is to **drive sales to my product**. The
 emails are **for my online audience of entrepreneurs**. The emails should be friendly and less than 200 words.
+
 • You are an expert nutritionist. Create a 7 day meal plan for my 5 foot 7, 40 year old, female client who exercises 3
 times a week. The goal is for her to lose 1 pound of fat a week by being in a caloric deficit and eating the right amount
 of carbs, sugar, and protein. She doesn’t eat pork and wants to spend $200 per week on food. The meal plan
@@ -233,6 +234,7 @@ tabular format”
 day schedule in tabular format for me to follow in order to hit my goals. My short term daily goals are meditate,
 workout, read, and work on my projects. My long term goals are to sign 30 new clients and save $10,000 over the next
 6 months.
+
 • I want you to act as a virtual doctor. I will describe my symptoms and you will provide a diagnosis and treatment
 plan. You should only reply with your explanation, diagnosis, and treatment plan, and nothing else. My important
 details are, "I have been experiencing a headache and dizziness for the last few days, what could be the cause?”
