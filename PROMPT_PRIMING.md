@@ -38,11 +38,16 @@ elicit the desired response.)
 
 Great outputs all come down to the **data** the model was trained on, its **parameters**, and good **prompting**. Since
 we can only control one of these, here’s what good prompting boils down to:
+
 • **Clear and concise** language that is direct and unambiguous.
+
 • The **persona** that you assign to ChatGPT, aka who it will be acting as in your prompt.
+
 • The **information** and **examples** that you provide, aka your **input**. (information and examples can be referenced
 by ChatGPT in the previous chat history)
+
 • A specific **task** that you are requesting ChatGPT to complete, aka your desired **output**. 
+
 • **Refinement** as needed once you receive your first response, aka reiteration until receiving the desired output.
 
 ## Prompt Priming
@@ -53,6 +58,7 @@ The initial input is intended to guide the model toward generating a response th
 ### Example 1 🤯
 
 **Without priming:** Where should I go on my next vacation?
+
 **With priming:** I'd like to go on a trip with my wife and kids, the location should be tropical, we'd love to be close to the beach, I'd like the flight to be one direct flight to and from LAX, and i have a travel budget of $5,000. Where should I go on my next vacation?
 
 **Priming Output:** One suggestion for your tropical family vacation within a $5,000 budget could be Cancun, Mexico. Direct flights from LAX are available, and you can find affordable all-inclusive packages with prices starting at around $1,000 per person for a week-long stay. Popular family **family activities** in Cancun include snorkeling, visiting ancient ruins, and exploring local beaches and restaurants.
